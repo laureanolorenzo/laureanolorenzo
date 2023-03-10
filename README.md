@@ -41,10 +41,10 @@
 <img src= 
   "https://img.shields.io/badge/-laureanolorenzo@gmail.com-red?logo=gmail&logoColor=white&size&style=flat-square" 
   height = 30
-  width = 180 />
- <a href="tel:542612122772"></a>
+  width = 180 /></a>
+ <a href="tel:542612122772">
 <img src= 
   "https://img.shields.io/badge/-+542612122772-brightgreen?logo=whatsapp&logoColor=white&size&style=flat-square" 
   height = 30
-  width = 180 />
+  width = 180 /></a>
 
