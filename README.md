@@ -37,14 +37,10 @@
 - <img src = "https://cdn-icons-png.flaticon.com/512/3214/3214721.png" width = 15 height = 15> Current goals: To create a trading bot, to finish my career and continue with my studies, to build a web/mobile app, to gain experience in the data field
 --------------------------------------------------------------------------------------------------------------------------------
 ##### Contact:
-<a href="mailto:laureanolorenzo@gmail.com"></a>
-<img src= 
+<a href="mailto:laureanolorenzo@gmail.com" style="display: inline" clear = "none"><img src= 
   "https://img.shields.io/badge/-laureanolorenzo@gmail.com-red?logo=gmail&logoColor=white&size&style=flat-square" 
   height = 30
-  width = 180 /></a>
- <a href="tel:542612122772">
-<img src= 
+  width = 180 /></a><a style="display: inline" clear = "none" href="tel:+542612122772"> <img src= 
   "https://img.shields.io/badge/-+542612122772-brightgreen?logo=whatsapp&logoColor=white&size&style=flat-square" 
   height = 30
   width = 180 /></a>
-
