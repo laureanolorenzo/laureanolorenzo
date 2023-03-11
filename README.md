@@ -10,19 +10,22 @@
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">  <img src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" 
   width = 80
   height = 80/>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">  <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/90px-Pandas_mark.svg.png" 
-  width = 80
-  height = 80/>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer">  <img src= "https://numpy.org/images/logo.svg" 
-  width = 80
-  height = 80/>
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">  <img src= "https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" 
-  width = 70
-  height = 70/>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">  <img src= "https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" 
-  width = 85
-  height = 75/>
-
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">  <img src= "https://pandas.pydata.org/static/img/pandas_secondary_white.svg"
+  width = 100
+  height = 90/>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer">  <img src= "https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" 
+  width = 90
+  height = 85/>
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src= "https://matplotlib.org/governance/_static/images/logo2.svg"
+  align = "bottom"                                                                        
+  width = 150
+  height = 100 /><a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src = "https://seaborn.pydata.org/_images/logo-tall-lightbg.svg"
+  width = 95
+  height = 85 />
+<a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png?20180808062052"
+  align = "top"                                                                                
+  width = 120
+  height = 85 />
 
 --------------------------------------------------------------------------------------------------------------------------------
 - <img src= "https://cdn-icons-png.flaticon.com/512/1162/1162914.png" width = 15 height = 15> Currently working on: my repository, [speed-dating-experiment](https://github.com/laureanolorenzo/speed-dating-experiment)
