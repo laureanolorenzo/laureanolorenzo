@@ -24,8 +24,8 @@
   height = 85 />
 <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png?20180808062052"
   align = "top"                                                                                
-  width = 120
-  height = 85 />
+  width = 80
+  height = 63 />
 
 --------------------------------------------------------------------------------------------------------------------------------
 - <img src= "https://cdn-icons-png.flaticon.com/512/1162/1162914.png" width = 15 height = 15> Currently working on: my repository, [speed-dating-experiment](https://github.com/laureanolorenzo/speed-dating-experiment)
