@@ -8,8 +8,8 @@
 #### Skills and Tools:
 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">  <img src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" 
-  width = 80
-  height = 80/>
+  width = 85
+  height = 85/>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">  <img src= "https://pandas.pydata.org/static/img/pandas_secondary_white.svg"
   width = 100
   height = 90/>
@@ -22,10 +22,11 @@
   height = 100 /><a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src = "https://seaborn.pydata.org/_images/logo-tall-lightbg.svg"
   width = 95
   height = 85 />
-<a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png?20180808062052"
-  align = "top"                                                                                
-  width = 80
-  height = 63 />
+
+<a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/320px-Scikit_learn_logo_small.svg.png"         
+  align = "top"
+  width = 90
+  height = 40 />
 
 --------------------------------------------------------------------------------------------------------------------------------
 - <img src= "https://cdn-icons-png.flaticon.com/512/1162/1162914.png" width = 15 height = 15> Currently working on: my repository, [speed-dating-experiment](https://github.com/laureanolorenzo/speed-dating-experiment)
