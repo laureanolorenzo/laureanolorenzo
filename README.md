@@ -10,7 +10,7 @@
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">  <img src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" 
   width = 85
   height = 85/>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">  <img src= "https://pandas.pydata.org/static/img/pandas_secondary_white.svg"
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">  <img src= "https://pandas.pydata.org/static/img/pandas_secondary.svg"
   width = 100
   height = 90/>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer">  <img src= "https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" 
