@@ -16,7 +16,7 @@
 <a href="https://numpy.org/" target="_blank" rel="noreferrer">  <img src= "https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" 
   width = 90
   height = 85/>
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src= "https://matplotlib.org/governance/_static/images/logo2.svg"
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src= "https://matplotlib.org/stable/_static/logo_light.svg"
   align = "bottom"                                                                        
   width = 150
   height = 100 /><a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src = "https://seaborn.pydata.org/_images/logo-tall-lightbg.svg"
