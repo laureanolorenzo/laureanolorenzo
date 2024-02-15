@@ -7,37 +7,11 @@
 --------------------------------------------------------------------------------------------------------------------------------
 #### Skills and Tools:
 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">  <img src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" 
-  width = 85
-  height = 85 
-  alt = "Python Logo"/>
-</a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">  <img src= "https://datascientest.com/en/wp-content/uploads/sites/9/2022/01/illu_pandas-82-1024x562.png" 
-  width = 90
-  height = 50
-  align = "top"
-  alt = "Pandas Logo"/>
-</a>
-<a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> 
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/320px-Scikit_learn_logo_small.svg.png"         
-  align = "top"
-  width = 90
-  height = 40 
-  alt = "Scikit Learn Logo"/>
-</a>
-<a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript" target = "_blank" rel="noreferrer" >
-  <img src = "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
-    width = 80
-    height = 80
-    alt = "Javascript Logo"/>
-</a>
-<a href = "https://nodejs.org/docs/latest/api/" target="_blank" rel="noreferrer">
-  <img src ="https://nodejs.org/static/images/logo.svg" 
-    align = "top"
-    height = "50"
-    width = "150"
-    alt ="Nodejs Logo">
-</a>
+[![Python](https://github.com/laureanolorenzo/laureanolorenzo/assets/96154322/3cccc68f-b59a-493c-882b-3e3ca610e305)](https://www.python.org/)
+[![Pandas](https://github.com/laureanolorenzo/laureanolorenzo/assets/96154322/8c711755-1085-4252-97e5-2049fc703903)](https://pandas.pydata.org/)
+[![scikit-learn](https://github.com/laureanolorenzo/laureanolorenzo/assets/96154322/55a74937-631a-46ff-bb3e-836744bc16bb)](https://scikit-learn.org/stable/)
+[![javascript](https://github.com/laureanolorenzo/laureanolorenzo/assets/96154322/afefe70c-e6b2-4d76-b598-c9c4c3003be6)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+[![nodeJS](https://github.com/laureanolorenzo/laureanolorenzo/assets/96154322/355828b7-c60c-417b-a8b5-1afd36edd12e)](https://nodejs.org/)
 
 --------------------------------------------------------------------------------------------------------------------------------
 - <img src= "https://cdn-icons-png.flaticon.com/512/1162/1162914.png" width = 15 height = 15> Currently working on: my repositories [speed-dating-experiment](https://github.com/laureanolorenzo/speed-dating-experiment) and [cinemovies](https://github.com/laureanolorenzo/grupo_13_cinemovies) 
