@@ -29,4 +29,8 @@
 <a href="mailto:laureanolorenzo@gmail.com" style="display: inline" clear = "none"><img src= 
   "https://img.shields.io/badge/-laureanolorenzo@gmail.com-red?logo=gmail&logoColor=white&size&style=flat-square" 
   height = 30
-  width = 180 /></a><a style="display: inline" clear = "none" href="https://api.whatsapp.com/send?phone=542612122772"> 
+  width = 180 /></a>
+<a href="https://www.linkedin.com/in/laureano-lorenzo/" style="display: inline" clear = "none" target = "_blank"><img src= 
+  "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+  height = 30
+  width = 118 /></a><a style="display: inline" clear = "none" href="https://api.whatsapp.com/send?phone=542612122772"> 
