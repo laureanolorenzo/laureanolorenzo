@@ -14,7 +14,7 @@
 [![nodeJS](https://github.com/laureanolorenzo/laureanolorenzo/assets/96154322/355828b7-c60c-417b-a8b5-1afd36edd12e)](https://nodejs.org/)
 
 --------------------------------------------------------------------------------------------------------------------------------
-- <img src= "https://cdn-icons-png.flaticon.com/512/1162/1162914.png" width = 15 height = 15> Currently working on: my repositories [speed-dating-experiment](https://github.com/laureanolorenzo/speed-dating-experiment) and [cinemovies](https://github.com/laureanolorenzo/grupo_13_cinemovies) 
+- <img src= "https://cdn-icons-png.flaticon.com/512/1162/1162914.png" width = 15 height = 15> Currently working on: my repositories [Smart Bible](https://github.com/laureanolorenzo/Smart-Bible) and [cinemovies](https://github.com/laureanolorenzo/grupo_13_cinemovies) 
 - <img src= "https://cdn-icons-png.flaticon.com/512/892/892926.png" width = 15 height = 15> Currently learning: MySQL, javascript
 - <img src= "https://cdn-icons-png.flaticon.com/512/5371/5371017.png" width = 15 height = 15> Looking to collaborate on: data science/ finance related projects
 - <img src= "https://cdn-icons-png.flaticon.com/512/2232/2232688.png" width = 15 height = 15>  Studies: Economics at [*Facultad de Ciencias Económicas Uncuyo*](https://fce.uncuyo.edu.ar/) (5<sup>th</sup> year), *Data Intelligence in Management* Diploma, Programación Web Full Stack, [Digital House](https://www.digitalhouse.com/ar/productos/programacion/programacion-web-full-stack)
